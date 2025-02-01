@@ -15,10 +15,10 @@ A minimalist, distraction-free note-taking app where your thoughts fade away lik
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ghost-notes.git
+git clone https://github.com/makalin/GhostNotes.git
 
 # Navigate to project directory
-cd ghost-notes
+cd GhostNotes
 
 # Install dependencies
 npm install
